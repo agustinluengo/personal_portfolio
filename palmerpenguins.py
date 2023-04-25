@@ -1,6 +1,9 @@
 import pandas as pd
 import seaborn as sns
 import bokeh
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import FeatureUnion, make_pipeline
+from sklearn.metrics import confusion_matrix
 
 df = pd.read_csv(palmerpenguins.csv)
 df.shape
