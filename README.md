@@ -10,6 +10,5 @@ Projects:
 3. Energy Consumption (https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption)
   a. electricity_consumption_notebook1 contains a time series analysis of seasonal data for energy consumption, the objective is to identify patters and provide insights for the different levels of granularity of the data (annual, quarterly, seasonally, monthly, daily, hourly) and create a ML model able to predict the energy cosumption for an unknown period.
 
-4. Walmart Sales (https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
-5. Credit Risk (https://www.kaggle.com/datasets/uciml/german-credit)
-6. 
+4. Bank Transaction Dataset for Fraud Detection (https://www.kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection)
+  a. This dataset provides a detailed look into transactional behavior and financial activity patterns, ideal for exploring fraud detection and anomaly identification. It contains 2,512 samples of transaction data, covering various transaction attributes, customer demographics, and usage patterns. Each entry offers comprehensive insights into transaction behavior, enabling analysis for financial security and fraud detection applications.
