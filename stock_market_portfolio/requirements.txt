@@ -1,0 +1,13 @@
+#importing libraries
+
+import numpy as np #data wrangling
+import pandas as pd #data wrangling
+import seaborn as sns #static data visualization
+import matplotlib.pyplot as plt #static data visualization
+import yfinance as yf #public API - Yahoo Finance
+from datetime import datetime, timedelta #time functions
+
+import plotly.express as px #dynamic data visualization
+import plotly.graph_objs as go #dynamic data visualization
+from plotly.subplots import make_subplots
+from dash import Dash, html, dash_table, dcc, callback, Output, Input, State #dashboard - data visualization
